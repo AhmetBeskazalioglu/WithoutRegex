@@ -9,8 +9,7 @@ For Example:
 
 Question:Write a regular expression for the language of words with ={0,1} in which the symbols 0 and 1, combined in various ways, are followed by two symbols 1, and the symbol 0 is always followed by symbol(s) 1, if any.
   
-Answer: (0+1)*11(1+01)*
-  ![image](https://github.com/AhmetBeskazalioglu/WithoutRegex/assets/146031280/829aad78-11eb-464c-bd6e-bc874fbd36e7)
+Answer:  ![image](https://github.com/AhmetBeskazalioglu/WithoutRegex/assets/146031280/829aad78-11eb-464c-bd6e-bc874fbd36e7)
 
 
   Subsamples:
